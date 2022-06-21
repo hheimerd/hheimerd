@@ -11,4 +11,4 @@ I like to talk about technology (e.g. new SpaceX robot) and news. Also I don't f
 - 🥸 My alias name is Holly Hheimerdinger (hheimerd). If you from Ecole 42, you can find me by this pseudonym in Slack or Intranet
 
 
-[![hheimerd's 42 stats](https://badge42.herokuapp.com/api/stats/hheimerd)](https://github.com/JaeSeoKim/badge42)
+[![hheimerd's 42 stats](https://badge42.vercel.app/api/v2/cl4o6whdt005009l8cywxq525/stats?cursusId=21&coalitionId=81)](https://github.com/JaeSeoKim/badge42)
