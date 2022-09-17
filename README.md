@@ -7,7 +7,7 @@ I like to talk about technology (e.g. new SpaceX robot) and news. Also, I don't 
 
 ## My projects:
 
-[<img src="https://user-images.githubusercontent.com/38163258/190852649-7ba0d257-4d2d-49ca-a517-186f9c1ff965.png" alt="Projects" width="640"/>](https://www.youtube.com/channel/UCqyJSsxQNcLjG-8_iG9HQeg)
+[<img src="https://user-images.githubusercontent.com/38163258/190853432-786bab56-8fe8-4370-8f8d-b52a204cff6e.png" alt="Projects" width="640"/>](https://www.youtube.com/channel/UCqyJSsxQNcLjG-8_iG9HQeg)
 
 ## Specialization: 
 - Backend, microservices: NodeJS (Nest.js / Express / ASP.NET)
